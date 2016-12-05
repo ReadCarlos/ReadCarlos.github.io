@@ -1,0 +1,99 @@
+{
+  "feedback": {
+    "lineSymbol": {
+      "type": "esriSLS",
+      "style": "esriSLSSolid",
+      "color": {
+        "r": 255,
+        "g": 50,
+        "b": 50,
+        "a": 1
+      },
+      "width": 3
+    },
+    "circleSymbol": {
+      "type": "esriSFS",
+      "style": "esriSFSNull",
+      "color": [
+        255,
+        0,
+        0,
+        0
+      ],
+      "outline": {
+        "color": {
+          "r": 255,
+          "g": 50,
+          "b": 50,
+          "a": 1
+        },
+        "width": 1,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    "ellipseSymbol": {
+      "type": "esriSFS",
+      "style": "esriSFSNull",
+      "color": [
+        255,
+        0,
+        0,
+        0
+      ],
+      "outline": {
+        "color": {
+          "r": 255,
+          "g": 50,
+          "b": 50,
+          "a": 1
+        },
+        "width": 1,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    "rangeRingSymbol": {
+      "type": "esriSFS",
+      "style": "esriSFSNull",
+      "color": [
+        255,
+        0,
+        0,
+        0
+      ],
+      "outline": {
+        "color": {
+          "r": 255,
+          "g": 50,
+          "b": 50,
+          "a": 1
+        },
+        "width": 1,
+        "type": "esriSLS",
+        "style": "esriSLSSolid"
+      }
+    },
+    "labelSymbol": {
+      "type": "esriTS",
+      "color": {
+        "r": 51,
+        "g": 51,
+        "b": 255,
+        "a": 1
+      },
+      "verticalAlignment": "middle",
+      "horizontalAlignment": "center",
+      "xoffset": 0,
+      "yoffset": 0,
+      "kerning": true,
+      "font": {
+        "family": "arial",
+        "size": 12,
+        "style": "normal",
+        "weight": "normal",
+        "decoration": "none"
+      }
+    }
+  }
+}
